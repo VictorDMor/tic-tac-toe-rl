@@ -1,0 +1,1 @@
+I followed the article from Jeremy Zhang available at https://towardsdatascience.com/reinforcement-learning-implement-tictactoe-189582bea542
