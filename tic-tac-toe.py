@@ -13,6 +13,16 @@ class State:
         self.board_hash = None
         # Player 1 has first play
         self.player_symbol = 1
+        self.p1_wins = 0
+        self.p2_wins = 0
+        self.number_of_ties = 0
+
+    def print_stats(self):
+        print("=================================")
+        print("{} wins: {}".format(self.p1.name, self.p1_wins))
+        print("{} wins: {}".format(self.p2.name, self.p2_wins))
+        print("Ties: {}".format(self.number_of_ties))
+        print("=================================")
 
     def get_hash(self):
         ''' This function generates a unique hash that identifies the state for the board '''
@@ -88,9 +98,12 @@ class State:
             self.p2.feed_reward(0.5)
 
     def play(self, rounds=100):
-        for i in range(rounds):
-            if i % 1 == 0:
-                print("Round {}".format(i))
+        for i in range(1, rounds+1):
+            # self.print_stats()
+            # if i % 1 == 0:
+            #     print("=================================")
+            #     print("             ROUND {}".format(i))
+            #     print("=================================")
             while not self.is_end:
                 # Player 1
                 positions = self.available_positions()
@@ -100,12 +113,17 @@ class State:
                 self.update_state(p1_action)
                 board_hash = self.get_hash()
                 self.p1.add_state(board_hash)
-
                 # Check board status if the game is over
                 win = self.check_winner()
                 if win is not None:
-                    self.show_board()
                     # The game ended with p1 winning or draw/tie
+                    if win == 1:
+                        # print("{} wins!".format(self.p1.name))
+                        self.p1_wins += 1
+                    else:
+                        # print("It's a tie!")
+                        self.number_of_ties += 1
+                    # self.show_board()
                     self.give_reward()
                     self.p1.reset()
                     self.p2.reset()
@@ -120,13 +138,59 @@ class State:
                     self.p2.add_state(board_hash)
                     win = self.check_winner()
                     if win is not None:
-                        self.show_board()
                         # The game ended with player 2 winning or draw/tie
+                        if win == -1:
+                            # print("{} wins!".format(self.p2.name))
+                            self.p2_wins += 1
+                        else:
+                            # print("It's a tie!")
+                            self.number_of_ties += 1
+                        # self.show_board()
                         self.give_reward()
                         self.p1.reset()
                         self.p2.reset()
                         self.reset()
                         break
+        self.p1.save_policy()
+        self.p2.save_policy()
+
+    def play_with_human(self):
+        while not self.is_end:
+            # Player 1
+            positions = self.available_positions()
+            p1_action = self.p1.choose_action(positions, self.board, self.player_symbol)
+             
+            # Take action and update board state
+            self.update_state(p1_action)
+            self.show_board()
+
+            win = self.check_winner()
+            if win is not None:
+                if win == 1:
+                    print("{} wins!".format(self.p1.name))
+                    self.p1_wins += 1
+                else:
+                    print("It's a tie!")
+                    self.number_of_ties += 1
+                self.reset()
+                break
+            else:
+                # Player 2
+                positions = self.available_positions()
+                p2_action = self.p2.choose_action(positions)
+
+                self.update_state(p2_action)
+                self.show_board()
+                win = self.check_winner()
+                if win is not None:
+                    if win == -1:
+                        print("{} wins!".format(self.p2.name))
+                        self.p2_wins += 1
+                    else:
+                        print("It's a tie!")
+                        self.number_of_ties += 1
+                    self.reset()
+                    break 
 
     def show_board(self):
         # p1: x  p2: o
@@ -177,11 +241,11 @@ class Player:
                 next_board[p] = symbol
                 next_board_hash = self.get_hash(next_board)
                 value = 0 if self.states_value.get(next_board_hash) is None else self.states_value.get(next_board_hash)
-                print("Value is: ", value)
+                #print("Value is: ", value)
                 if value >= value_max:
                     value_max = value
                     action = p
-        print("{} takes action {}".format(self.name, action))
+        # print("{} takes action {}".format(self.name, action))
         return action
 
     def feed_reward(self, reward):
@@ -201,8 +265,41 @@ class Player:
         self.states_value = pickle.load(fr)
         fr.close()
 
+class HumanPlayer:
+    def __init__(self, name):
+        self.name = name
+    
+    def choose_action(self, positions):
+        row = int(input("Input your action row: "))
+        col = int(input("Input your action column: "))
+        action = (row, col)
+        if action in positions:
+            return action
+
+    def add_state(self, state):
+        pass
+    
+    def feed_reward(self, reward):
+        pass
+
+    def reset(self):
+        pass
+
 if __name__ == "__main__":
-    player1 = Player("Victor")
-    player2 = Player("Churros")
+    player1 = Player("CPU1")
+    player2 = Player("CPU2")
     s1 = State(player1, player2)
-    s1.play()
+
+    print("Training the agents... \n")
+    s1.play(50000)
+    # s1.print_stats()
+
+    # Play with human
+    player1 = Player("CPU", exp_rate=0)
+    player1.load_policy("policy_CPU1")
+
+    player2 = HumanPlayer("Victor")
+    s2 = State(player1, player2)
+    for i in range(10):
+        s2.play_with_human()
+        s2.print_stats()
