@@ -1,0 +1,4551 @@
+Round 0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 2)
+Churros takes action (2, 0)
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (0, 2)
+-------------
+|   |   | x | 
+-------------
+| o | x | x | 
+-------------
+| o | o | x | 
+-------------
+Round 1
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0010497600000000003
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Churros takes action (0, 2)
+Value is:  0
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 2
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0008587036800000003
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0005248800000000001
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.00010497600000000003
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0029160000000000006
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0005832000000000002
+Victor takes action (1, 1)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0.09000000000000001
+Value is:  0
+Churros takes action (0, 0)
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 3
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0007512082560000002
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0017845920000000006
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.00035691840000000015
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.007581600000000003
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0015163200000000007
+Victor takes action (1, 1)
+Value is:  0.016200000000000003
+Value is:  0
+Value is:  0.029160000000000005
+Value is:  0
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Victor takes action (1, 0)
+Churros takes action (0, 0)
+Value is:  0.032400000000000005
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 4
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0007649811072000003
+Victor takes action (2, 2)
+Churros takes action (2, 1)
+Victor takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Victor takes action (1, 1)
+-------------
+| x |   |   | 
+-------------
+|   | x |   | 
+-------------
+| o | o | x | 
+-------------
+Round 5
+Victor takes action (0, 1)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Churros takes action (0, 2)
+Victor takes action (0, 0)
+-------------
+| x | x | o | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 6
+Victor takes action (1, 0)
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 2)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Victor takes action (0, 0)
+Churros takes action (0, 2)
+-------------
+| x |   | o | 
+-------------
+| x | o | o | 
+-------------
+| o | x | x | 
+-------------
+Round 7
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.006443984885760002
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0036447667200000013
+Churros takes action (2, 1)
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 0)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+-------------
+| x | o | o | 
+-------------
+|   | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 8
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.009820787908608002
+Victor takes action (2, 2)
+Churros takes action (0, 1)
+Victor takes action (2, 0)
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+-------------
+|   | o |   | 
+-------------
+|   | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 9
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.007856630326886401
+Victor takes action (2, 2)
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.032400000000000005
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 0)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Churros takes action (0, 2)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | x | o | 
+-------------
+| o | x | x | 
+-------------
+| o | o | x | 
+-------------
+Round 10
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.008153877061509121
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.003965573376000001
+Churros takes action (0, 1)
+Victor takes action (1, 0)
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Churros takes action (0, 0)
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Victor takes action (0, 2)
+-------------
+| o | o | x | 
+-------------
+| x | o | x | 
+-------------
+| o | x | x | 
+-------------
+Round 11
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.006712058449207297
+Victor takes action (2, 2)
+Churros takes action (2, 1)
+Value is:  0.025920000000000006
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 0)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Churros takes action (1, 1)
+-------------
+| x | o |   | 
+-------------
+|   | o |   | 
+-------------
+| x | o | x | 
+-------------
+Round 12
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.00910212675936584
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.009004458700800001
+Churros takes action (2, 1)
+Value is:  0.020736000000000004
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 0)
+Value is:  0.032400000000000005
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0.18000000000000002
+Value is:  0
+Churros takes action (1, 1)
+-------------
+| x | o |   | 
+-------------
+|   | o |   | 
+-------------
+| x | o | x | 
+-------------
+Round 13
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.010267685407492672
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.02236676696064
+Churros takes action (2, 1)
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+-------------
+|   |   | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 14
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.01404614832599414
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.017893413568512002
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (0, 1)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 15
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.016091475460795313
+Victor takes action (2, 2)
+Churros takes action (1, 2)
+Victor takes action (1, 1)
+Churros takes action (2, 1)
+Victor takes action (1, 0)
+Churros takes action (0, 1)
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Churros takes action (0, 2)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | o | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 16
+Value is:  0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.01306213716863625
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.014314730854809601
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.026969760000000002
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Churros takes action (1, 2)
+Victor takes action (2, 0)
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 17
+Victor takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Churros takes action (0, 2)
+-------------
+| x |   | o | 
+-------------
+| x | o | x | 
+-------------
+| o | x | o | 
+-------------
+Round 18
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.012501544683847681
+Churros takes action (2, 1)
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Churros takes action (2, 0)
+Victor takes action (1, 2)
+-------------
+|   | o | x | 
+-------------
+| x |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 19
+Value is:  0.0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0159861575479272
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.010841043747078146
+Churros takes action (2, 1)
+Victor takes action (1, 0)
+Churros takes action (0, 0)
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0032400000000000007
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0.21960000000000002
+Churros takes action (0, 2)
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 20
+Value is:  0.0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.012859822629701761
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.010222280757662516
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.024436339200000004
+Value is:  0.0003938699520000002
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.03613248000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.18000000000000002
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 21
+Value is:  0.0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.01474324483016141
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.011579047006130013
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.024752148480000003
+Value is:  0.0003938699520000002
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.01889568
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.028905984000000006
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0.08424000000000001
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.324
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 22
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 2)
+Victor takes action (1, 1)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Churros takes action (0, 2)
+Victor takes action (0, 0)
+Churros takes action (1, 0)
+Value is:  0
+Victor takes action (1, 2)
+-------------
+| x | o | o | 
+-------------
+| o | x | x | 
+-------------
+| x | x | o | 
+-------------
+Round 23
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.016729130724904014
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.023964180480000003
+Value is:  0.0003938699520000002
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Victor takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+|   | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 24
+Value is:  0.0
+Value is:  0.00018895680000000005
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0
+Value is:  0.017387120669543305
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.01338330457992321
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.025003344384000002
+Value is:  0.0003938699520000002
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.43920000000000003
+Churros takes action (0, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 25
+Victor takes action (0, 1)
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 2)
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.032400000000000005
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 2)
+Value is:  0.18000000000000002
+Victor takes action (0, 0)
+-------------
+| x | x | o | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 26
+Victor takes action (1, 1)
+Churros takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.00010497600000000003
+Value is:  0
+Victor takes action (2, 0)
+Churros takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (0, 2)
+-------------
+|   |   | x | 
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+Round 27
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010648765440000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0
+Value is:  0.017510178126930644
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.013805535183938568
+Churros takes action (2, 1)
+Victor takes action (1, 0)
+Value is:  0.008608032000000002
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.002188166400000001
+Victor takes action (2, 0)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 28
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010648765440000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0
+Value is:  0.014140472727720515
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.012808864755150855
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.020002675507200002
+Value is:  0.0007351679232000004
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.023124787200000003
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0.14644800000000002
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.53136
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 29
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 2)
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 0)
+Victor takes action (0, 2)
+-------------
+|   |   | x | 
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+Round 30
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010648765440000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.014792157939437212
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.023544611676120687
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.01933210976256
+Value is:  0.0007351679232000004
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.032400000000000005
+Victor takes action (2, 0)
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 0)
+Churros takes action (0, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 31
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010648765440000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.01545735815735841
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.025187661129696552
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.020131287810048002
+Value is:  0.0007351679232000004
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.07387511040000003
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.018499829760000003
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0.22607424000000004
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.6640704000000001
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 32
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010648765440000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.01574430755791284
+Victor takes action (2, 2)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Churros takes action (0, 2)
+-------------
+| o |   | o | 
+-------------
+| x | o | x | 
+-------------
+| o | x | x | 
+-------------
+Round 33
+Victor takes action (2, 2)
+Churros takes action (1, 0)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Victor takes action (0, 0)
+-------------
+| x |   |   | 
+-------------
+| o | x |   | 
+-------------
+|   | o | x | 
+-------------
+Round 34
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010648765440000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.01590835683706422
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.04079603596039725
+Churros takes action (2, 1)
+Victor takes action (1, 0)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0.016200000000000003
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (0, 0)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0.05313600000000001
+Victor takes action (1, 1)
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 35
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 2)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Churros takes action (0, 0)
+Victor takes action (0, 2)
+-------------
+| o | x | x | 
+-------------
+| x | x | o | 
+-------------
+| x | o | o | 
+-------------
+Round 36
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.012896069368480175
+Victor takes action (2, 2)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Victor takes action (0, 0)
+Value is:  0
+Value is:  0.18000000000000002
+Churros takes action (1, 1)
+-------------
+| x |   | o | 
+-------------
+| x | o | o | 
+-------------
+| o | x | x | 
+-------------
+Round 37
+Victor takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0010497600000000003
+Churros takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 2)
+Churros takes action (1, 1)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.18000000000000002
+Churros takes action (0, 2)
+-------------
+| x |   | o | 
+-------------
+| x | o | x | 
+-------------
+| o | x | o | 
+-------------
+Round 38
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.01031685549478414
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.033581612768317795
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.0187690057334784
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (2, 0)
+Victor takes action (1, 2)
+-------------
+|   |   | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 39
+Victor takes action (0, 2)
+Churros takes action (2, 0)
+Victor takes action (0, 0)
+Churros takes action (2, 1)
+Victor takes action (2, 2)
+Churros takes action (0, 1)
+Victor takes action (1, 2)
+-------------
+| x | o | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 40
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.0214538212214482
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.026865290214654235
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.07333520458678272
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.11469948364800003
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Victor takes action (2, 0)
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+|   | o |   | 
+-------------
+| x | o | x | 
+-------------
+Round 41
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.027723326437655273
+Victor takes action (2, 2)
+Churros takes action (2, 0)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Churros takes action (1, 0)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | x | x | 
+-------------
+| o | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 42
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.022367617950124218
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.0438409578170354
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.05866816366942618
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.12415958691840004
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.014799863808000002
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0.30888552960000004
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.71125632
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 43
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.026725922398400104
+Victor takes action (2, 2)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.0010497600000000003
+Value is:  0
+Value is:  0
+Value is:  0.0010497600000000003
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0.0034758720000000005
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0.18000000000000002
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 44
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.022023191038720084
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.06532625718370193
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.04906571132389294
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.16807494961152003
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Victor takes action (1, 1)
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 45
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.025296235293616652
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.07646379849102043
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.042653791459114354
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0.324
+Victor takes action (1, 2)
+-------------
+|   |   | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 46
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0010497600000000003
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 1)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Churros takes action (0, 0)
+Victor takes action (0, 2)
+-------------
+| o | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | x | x | 
+-------------
+Round 47
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.04060921420500579
+Victor takes action (2, 2)
+Value is:  0.0010497600000000003
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.061171038792816344
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.11317903316729148
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.13445995968921604
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.011839891046400002
+Value is:  0.018895680000000005
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.10497600000000001
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0.43920000000000003
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 48
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.05032250466489461
+Victor takes action (2, 2)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 2)
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 0)
+Value is:  0.0
+Value is:  0.18000000000000002
+Churros takes action (0, 2)
+-------------
+| o |   | o | 
+-------------
+| x | o | x | 
+-------------
+| o | x | x | 
+-------------
+Round 49
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.06829906522950019
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.0990840738938332
+Value is:  0.0009410216601600005
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.10756796775137283
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.011839891046400002
+Value is:  0.047449152000000015
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.17962560000000002
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0.53136
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 50
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.04917765002432453
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.07012903953979784
+Churros takes action (2, 1)
+Victor takes action (1, 0)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.011839891046400002
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0.38192933376000004
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.749005056
+Churros takes action (1, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 51
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.039784517114445354
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.07054715795217108
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.09428470577106655
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.08605437420109827
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.00947191283712
+Value is:  0.08343025920000001
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0.6050880000000001
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 52
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.06882955624669501
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.09786239552885324
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.06884349936087861
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.035288732160000016
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.00947191283712
+Value is:  0.1246368384
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.321625728
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 53
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.05912427314792276
+Victor takes action (2, 2)
+Churros takes action (2, 0)
+Victor takes action (2, 1)
+Value is:  0.019828800000000004
+Value is:  0
+Value is:  0.010497600000000003
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.08424000000000001
+Churros takes action (1, 1)
+Victor takes action (1, 0)
+Churros takes action (0, 1)
+Value is:  0.18000000000000002
+Victor takes action (0, 2)
+-------------
+| o | o | x | 
+-------------
+| x | o | x | 
+-------------
+| o | x | x | 
+-------------
+Round 54
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.047639540758338206
+Victor takes action (2, 2)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.010497600000000003
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+-------------
+|   |   | o | 
+-------------
+|   | o | x | 
+-------------
+| o | x | x | 
+-------------
+Round 55
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.03811163260667057
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.008855308800000005
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.06497710890532253
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.1087222068806826
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.025920000000000006
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0.19604851200000006
+Churros takes action (1, 1)
+Victor takes action (0, 0)
+Value is:  0
+Value is:  0
+Churros takes action (1, 0)
+-------------
+| x |   | x | 
+-------------
+| o | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 56
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.04681715027615475
+Victor takes action (2, 2)
+Churros takes action (0, 2)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+-------------
+|   |   | o | 
+-------------
+| x | x | x | 
+-------------
+| o | o | x | 
+-------------
+Round 57
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  1.8895680000000008e-05
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.0385034802209238
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.06319460198633803
+Churros takes action (2, 1)
+Value is:  0.016588800000000004
+Value is:  0
+Value is:  0.09071024550454608
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0
+Value is:  0.0009111916800000003
+Victor takes action (0, 2)
+Churros takes action (2, 0)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0.05832000000000001
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 58
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0022044960000000007
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.00010497600000000003
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.007581600000000002
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0005832000000000002
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0.016200000000000003
+Value is:  0.05832000000000001
+Value is:  0.032400000000000005
+Churros takes action (0, 2)
+Value is:  0.0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Churros takes action (0, 0)
+Value is:  0
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+| o | x | x | 
+-------------
+Round 59
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.044923432868980234
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.05055568158907042
+Churros takes action (2, 1)
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0.43920000000000003
+Value is:  0
+Value is:  0.031752
+Victor takes action (0, 2)
+-------------
+|   |   | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 60
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.05315481029518419
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.040444545271256335
+Churros takes action (2, 1)
+Victor takes action (0, 0)
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0.18000000000000002
+Value is:  0
+Victor takes action (1, 1)
+-------------
+| x |   |   | 
+-------------
+|   | x |   | 
+-------------
+| o | o | x | 
+-------------
+Round 61
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.055410235436147356
+Victor takes action (2, 2)
+Churros takes action (2, 1)
+Value is:  0.07159104000000001
+Value is:  0
+Value is:  0.07844804829022886
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0.09564480000000002
+Value is:  0.0009111916800000003
+Victor takes action (1, 2)
+Churros takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Victor takes action (1, 0)
+Value is:  0.09000000000000001
+Value is:  0
+Churros takes action (0, 0)
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 62
+Victor takes action (2, 2)
+Churros takes action (1, 0)
+Victor takes action (2, 1)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+-------------
+|   | o |   | 
+-------------
+| o |   |   | 
+-------------
+| x | x | x | 
+-------------
+Round 63
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.0010497600000000003
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.052340041418334315
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.026829292973604053
+Churros takes action (2, 1)
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.017379360000000003
+Churros takes action (0, 1)
+Value is:  0.0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 2)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Churros takes action (1, 0)
+Value is:  0
+Victor takes action (0, 2)
+-------------
+| o | o | x | 
+-------------
+| o | x | x | 
+-------------
+| x | o | x | 
+-------------
+Round 64
+Victor takes action (0, 2)
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.07844804829022886
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.06229397145600002
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.020736000000000004
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0.18923880960000006
+Churros takes action (1, 1)
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.7792040448
+Churros takes action (0, 1)
+-------------
+|   | o | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 65
+Victor takes action (1, 2)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Victor takes action (2, 0)
+Churros takes action (0, 2)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Churros takes action (1, 0)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | o | o | 
+-------------
+| o | x | x | 
+-------------
+| x | o | x | 
+-------------
+Round 66
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0018895680000000005
+Value is:  0.042192201536587454
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.026129034378883243
+Churros takes action (2, 1)
+Value is:  0.07159104000000001
+Value is:  0
+Value is:  0.06574442263218308
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0.07670479680000002
+Value is:  0.0017787133440000007
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0.0
+Value is:  0.005248800000000001
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 2)
+Victor takes action (2, 0)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0.0032400000000000007
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.162
+Churros takes action (1, 1)
+Value is:  0.032400000000000005
+Victor takes action (0, 1)
+-------------
+| o | x | o | 
+-------------
+| x | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 67
+Victor takes action (2, 1)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.027993600000000004
+Churros takes action (2, 0)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+-------------
+| o | x |   | 
+-------------
+|   | x | o | 
+-------------
+| o | x | x | 
+-------------
+Round 68
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.04488768375086997
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.004665600000000001
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.022939761903106596
+Churros takes action (2, 1)
+Value is:  0.07159104000000001
+Value is:  0
+Value is:  0.06574442263218308
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0.061855125120000014
+Value is:  0.0017787133440000007
+Victor takes action (0, 0)
+Value is:  0.08424000000000001
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0.324
+Value is:  0
+Churros takes action (1, 1)
+-------------
+| x | o |   | 
+-------------
+|   | o |   | 
+-------------
+| x | o | x | 
+-------------
+Round 69
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0002343064320000001
+Value is:  0.0010408580352000004
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.04621925676069598
+Victor takes action (2, 2)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0.0010497600000000003
+Value is:  0
+Value is:  0.0018895680000000005
+Value is:  0.0
+Value is:  0
+Victor takes action (1, 2)
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.010497600000000003
+Victor takes action (2, 0)
+Value is:  0.0
+Value is:  0.0
+Value is:  0
+Value is:  0.18000000000000002
+Churros takes action (1, 1)
+-------------
+|   | o |   | 
+-------------
+|   | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 70
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.004367001600000002
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Victor takes action (0, 1)
+Churros takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+-------------
+|   | x |   | 
+-------------
+| x | x | o | 
+-------------
+| o | x | o | 
+-------------
+Round 71
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0010408580352000004
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.03751960099255678
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.044712449522485286
+Churros takes action (2, 1)
+Value is:  0.05727283200000001
+Value is:  0
+Value is:  0.06574442263218308
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0.061855125120000014
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.10311453458841602
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.016588800000000004
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0.29599643013120003
+Churros takes action (1, 1)
+Victor takes action (0, 0)
+Value is:  0
+Value is:  0.18000000000000002
+Churros takes action (1, 0)
+-------------
+| x |   | x | 
+-------------
+| o | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 72
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0010408580352000004
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.03991285934907979
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.06018024806772084
+Churros takes action (2, 1)
+Value is:  0.05727283200000001
+Value is:  0
+Value is:  0.05498432530574646
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0.061855125120000014
+Value is:  0.0017787133440000007
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0.05832000000000001
+Value is:  0.011314080000000004
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.008398080000000002
+Victor takes action (2, 0)
+Value is:  0.0
+Value is:  0.0
+Value is:  0
+Value is:  0.324
+Churros takes action (1, 1)
+-------------
+|   | o |   | 
+-------------
+|   | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 73
+Victor takes action (1, 1)
+Churros takes action (2, 2)
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0
+Churros takes action (0, 1)
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| o | x | x | 
+-------------
+| o | x | o | 
+-------------
+Round 74
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008515821081600003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.04105510373014383
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.07077235845417668
+Churros takes action (2, 1)
+Value is:  0.05727283200000001
+Value is:  0
+Value is:  0.05498432530574646
+Value is:  0.002457761638809601
+Value is:  0
+Value is:  0.05069342361600001
+Value is:  0.0017787133440000007
+Victor takes action (0, 0)
+Value is:  0.14644800000000002
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Victor takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0.43920000000000003
+Value is:  0
+Churros takes action (1, 1)
+-------------
+| x | o |   | 
+-------------
+|   | o |   | 
+-------------
+| x | o | x | 
+-------------
+Round 75
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008515821081600003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.04109137079211506
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.09492246276334135
+Churros takes action (2, 1)
+Victor takes action (1, 1)
+Churros takes action (0, 1)
+Victor takes action (2, 0)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.18000000000000002
+Value is:  0.032400000000000005
+Victor takes action (0, 2)
+-------------
+|   | o | x | 
+-------------
+|   | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 76
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008515821081600003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.03476266463369205
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.07593797021067308
+Churros takes action (2, 1)
+Value is:  0.045818265600000005
+Value is:  0
+Value is:  0.05498432530574646
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.05069342361600001
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.13561271360962562
+Value is:  0.0
+Churros takes action (1, 2)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0.18147691008000003
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0.749005056
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 77
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008515821081600003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.037392550460719626
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Value is:  0.005038848000000001
+Value is:  0.08027860692832456
+Churros takes action (2, 1)
+Value is:  0.045818265600000005
+Value is:  0
+Value is:  0.05323565974314437
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.05069342361600001
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.1084901708877005
+Value is:  0.0
+Churros takes action (1, 2)
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0.29511714410496004
+Churros takes action (1, 1)
+Value is:  0.0
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 0)
+Churros takes action (0, 0)
+Value is:  0
+Victor takes action (0, 1)
+-------------
+| o | x | x | 
+-------------
+| x | o | o | 
+-------------
+| x | o | x | 
+-------------
+Round 78
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0005248800000000001
+Churros takes action (2, 2)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0
+Victor takes action (0, 1)
+Value is:  0.0
+Value is:  0
+Churros takes action (0, 2)
+-------------
+|   | x | o | 
+-------------
+| x | x | o | 
+-------------
+| x | o | o | 
+-------------
+Round 79
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.037942856408388494
+Victor takes action (2, 2)
+Churros takes action (1, 2)
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.006298560000000002
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.016200000000000003
+Value is:  0.04665600000000001
+Value is:  0.032400000000000005
+Churros takes action (0, 2)
+Value is:  0.0
+Value is:  0
+Value is:  0.032400000000000005
+Victor takes action (1, 1)
+Value is:  0.0
+Value is:  0
+Churros takes action (0, 1)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | o | o | 
+-------------
+| x | x | o | 
+-------------
+| o | x | x | 
+-------------
+Round 80
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.08801978652568908
+Churros takes action (2, 1)
+Value is:  0.045818265600000005
+Value is:  0
+Value is:  0.0446045335545155
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.05069342361600001
+Value is:  0.0017787133440000007
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0.12571200000000002
+Value is:  0.011314080000000004
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.006718464000000002
+Victor takes action (2, 0)
+Value is:  0.0
+Value is:  0.0
+Value is:  0
+Value is:  0.43920000000000003
+Churros takes action (1, 1)
+-------------
+|   | o |   | 
+-------------
+|   | o | x | 
+-------------
+| x | o | x | 
+-------------
+Round 81
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025614144000000007
+Value is:  0.032160128421112634
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.10573442122055127
+Churros takes action (2, 1)
+Value is:  0.045818265600000005
+Value is:  0
+Value is:  0.0446045335545155
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.04152219770880001
+Value is:  0.0017787133440000007
+Victor takes action (0, 0)
+Value is:  0.21280320000000003
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Victor takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0
+Value is:  0.53136
+Value is:  0
+Churros takes action (1, 1)
+-------------
+| x | o |   | 
+-------------
+|   | o |   | 
+-------------
+| x | o | x | 
+-------------
+Round 82
+Victor takes action (2, 1)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Churros takes action (0, 0)
+Value is:  0.324
+Victor takes action (0, 2)
+-------------
+| o | o | x | 
+-------------
+| x | o | x | 
+-------------
+| o | x | x | 
+-------------
+Round 83
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.03232593298329011
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.13483604897644103
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.0446045335545155
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.04152219770880001
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.13220500546127464
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.051378886103040006
+Value is:  0.011200032000000002
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0.285438256128
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0.7792040448
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 84
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.03579061926451931
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.12690635996757638
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.0551659604327068
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.04152219770880001
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.10576400436901971
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.10823518660608
+Value is:  0.011200032000000002
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0.80336323584
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 85
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.041985540877716096
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.11675510460319993
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.07418358592278138
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.04152219770880001
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.08461120349521577
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.16694898653675522
+Value is:  0.011200032000000002
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0.44644909584384
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (0, 1)
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 86
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.051560998645546564
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.10558809698587102
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.09984758857429826
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.04152219770880001
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.06768896279617262
+Value is:  0.0
+Churros takes action (1, 2)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 0)
+Victor takes action (0, 0)
+-------------
+| x | x | x | 
+-------------
+| o | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 87
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.0561181393511362
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.09421768823134567
+Churros takes action (2, 1)
+Victor takes action (1, 2)
+Churros takes action (0, 0)
+Victor takes action (0, 2)
+-------------
+| o |   | x | 
+-------------
+|   |   | x | 
+-------------
+|   | o | x | 
+-------------
+Round 88
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.05670570795097617
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.07537415058507654
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.0826074468594386
+Value is:  0.002457761638809601
+Value is:  0.010497600000000003
+Value is:  0.06561775816704002
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.055074799488702884
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.05415117023693809
+Value is:  0.0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0.00947191283712
+Value is:  0.16906828032000001
+Value is:  0
+Value is:  0.0
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.38532672
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Victor takes action (0, 0)
+-------------
+| x | o | x | 
+-------------
+| x | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 89
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.06433291282957966
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.06823009159443445
+Churros takes action (2, 1)
+Victor takes action (1, 1)
+Churros takes action (0, 0)
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Victor takes action (0, 2)
+-------------
+| o |   | x | 
+-------------
+|   | x | x | 
+-------------
+| o | o | x | 
+-------------
+Round 90
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.05402774466366373
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.05458407327554756
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.10537970260443735
+Value is:  0.002457761638809601
+Value is:  0.014230080000000003
+Value is:  0.06561775816704002
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Churros takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0.032665843814400006
+Value is:  0.53136
+Victor takes action (1, 2)
+-------------
+|   |   | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 91
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.07800172410596998
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.04366725862043805
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.19321960208354988
+Value is:  0.002457761638809601
+Value is:  0.014230080000000003
+Value is:  0.06561775816704002
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0.04405983959096231
+Value is:  0
+Value is:  0.017216064000000003
+Value is:  0.05415117023693809
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.015163200000000002
+Value is:  0
+Value is:  0.22500399908929536
+Value is:  0.011200032000000002
+Victor takes action (1, 1)
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0.324
+Victor takes action (2, 0)
+-------------
+|   | o | x | 
+-------------
+|   | x | o | 
+-------------
+| x | o | x | 
+-------------
+Round 92
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.0003401222400000001
+Value is:  1.8895680000000008e-05
+Value is:  0.0025101861120000006
+Value is:  0.0986185200412017
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.04273157541046953
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.20120633753569844
+Value is:  0.002457761638809601
+Value is:  0.014230080000000003
+Value is:  0.06561775816704002
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Churros takes action (0, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.18000000000000002
+Value is:  0
+Victor takes action (1, 2)
+-------------
+| o |   | x | 
+-------------
+|   |   | x | 
+-------------
+|   | o | x | 
+-------------
+Round 93
+Victor takes action (1, 2)
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 2)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Churros takes action (0, 2)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | x | o | 
+-------------
+| x | o | x | 
+-------------
+| x | o | o | 
+-------------
+Round 94
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0005248800000000001
+Churros takes action (2, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0059159808000000015
+Value is:  0
+Value is:  0.010497600000000003
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.05832000000000001
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 0)
+Victor takes action (0, 1)
+-------------
+|   | x |   | 
+-------------
+| o | x | o | 
+-------------
+| x | x | o | 
+-------------
+Round 95
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.00046105459200000015
+Value is:  0.004088185344000002
+Value is:  0.0025101861120000006
+Value is:  0.11836612863810193
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.03418526032837562
+Churros takes action (2, 1)
+Value is:  0.03665461248
+Value is:  0
+Value is:  0.21928507002855877
+Value is:  0.002457761638809601
+Value is:  0.014230080000000003
+Value is:  0.06561775816704002
+Value is:  0.0017787133440000007
+Victor takes action (0, 2)
+Churros takes action (2, 0)
+Value is:  0.032400000000000005
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0.032665843814400006
+Value is:  0.6050880000000001
+Victor takes action (1, 2)
+-------------
+|   |   | x | 
+-------------
+|   |   | x | 
+-------------
+| o | o | x | 
+-------------
+Round 96
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0008324311265280003
+Value is:  0.00046105459200000015
+Value is:  0.004088185344000002
+Value is:  0.0025101861120000006
+Value is:  0.14778583395459402
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.027348208262700496
+Churros takes action (2, 1)
+Victor takes action (0, 1)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.015163200000000002
+Value is:  0
+Value is:  0
+Value is:  0.005832000000000001
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (2, 0)
+Victor takes action (1, 0)
+Value is:  0
+Value is:  0
+Churros takes action (1, 1)
+Value is:  0
+Victor takes action (0, 0)
+-------------
+| x | x | x | 
+-------------
+| x | o | o | 
+-------------
+| o | o | x | 
+-------------
+Round 97
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0014696640000000003
+Churros takes action (2, 2)
+Value is:  0
+Value is:  0.0010497600000000003
+Value is:  0
+Value is:  0.0008398080000000003
+Value is:  0
+Value is:  0.0059159808000000015
+Value is:  0.00010497600000000003
+Victor takes action (2, 0)
+Value is:  0
+Value is:  0.0029160000000000006
+Value is:  0
+Value is:  0.0
+Value is:  0
+Value is:  0
+Churros takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0005832000000000002
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0.016200000000000003
+Value is:  0
+Value is:  0
+Churros takes action (0, 2)
+Value is:  0.0032400000000000007
+Value is:  0
+Value is:  0
+Victor takes action (0, 0)
+Value is:  0.09000000000000001
+Value is:  0
+Churros takes action (1, 0)
+Value is:  0.018000000000000002
+Victor takes action (1, 2)
+-------------
+| x | o | o | 
+-------------
+| o | x | x | 
+-------------
+| x | x | o | 
+-------------
+Round 98
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0015820914484224004
+Value is:  0.00046105459200000015
+Value is:  0.004088185344000002
+Value is:  0.0025101861120000006
+Value is:  0.11881065410767522
+Victor takes action (2, 2)
+Value is:  0.004408992000000001
+Value is:  0.014230080000000004
+Value is:  0.007084247040000003
+Value is:  0.0
+Value is:  0
+Value is:  0.0012093235200000005
+Value is:  0.005038848000000001
+Value is:  0.021878566610160396
+Churros takes action (2, 1)
+Victor takes action (0, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Value is:  0.0
+Value is:  0.0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0.005832000000000001
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (0, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0.032400000000000005
+Value is:  0.08424000000000001
+Victor takes action (1, 1)
+Value is:  0
+Value is:  0.0
+Churros takes action (1, 0)
+Victor takes action (0, 0)
+-------------
+| x | x | x | 
+-------------
+| o | x | o | 
+-------------
+| o | o | x | 
+-------------
+Round 99
+Value is:  0.0
+Value is:  0.0006424531200000002
+Value is:  0.012673804073792956
+Value is:  0.0012372051456000005
+Value is:  0.0015820914484224004
+Value is:  0.00046105459200000015
+Value is:  0.004088185344000002
+Value is:  0.0025101861120000006
+Value is:  0.09651936301734017
+Victor takes action (2, 2)
+Churros takes action (1, 0)
+Victor takes action (0, 1)
+Churros takes action (1, 2)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (2, 1)
+Value is:  0
+Value is:  0
+Value is:  0
+Value is:  0
+Churros takes action (2, 0)
+Value is:  0
+Value is:  0
+Value is:  0
+Victor takes action (1, 1)
+-------------
+|   | x |   | 
+-------------
+| o | x | o | 
+-------------
+| o | x | x | 
+-------------
