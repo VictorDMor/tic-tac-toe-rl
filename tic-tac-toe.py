@@ -1,8 +1,13 @@
+# 9! = 362880
 import numpy as np
 import pickle
+import sys
 
 BOARD_ROWS = 3
 BOARD_COLS = 3
+LEARNING_RATE = 0.2
+EXPLORATION_RATE = 0.3
+GAMES = int(sys.argv[1])
 
 class State:
     def __init__(self, p1, p2):
@@ -18,11 +23,16 @@ class State:
         self.number_of_ties = 0
 
     def print_stats(self):
-        print("=================================")
-        print("{} wins: {}".format(self.p1.name, self.p1_wins))
-        print("{} wins: {}".format(self.p2.name, self.p2_wins))
-        print("Ties: {}".format(self.number_of_ties))
-        print("=================================")
+        output_string = ''
+        output_string += "================================= \n"
+        output_string += "{} wins: {} \n".format(self.p1.name, self.p1_wins) # P1 is our main player, he's the one effective learning in the default versio
+        output_string += "{} wins: {} \n".format(self.p2.name, self.p2_wins)
+        output_string += "{} win percentage: {:.1f}% \n".format(self.p1.name, (self.p1_wins/(self.p1_wins+self.p2_wins+self.number_of_ties))*100)
+        output_string += "{} win percentage: {:.1f}% \n".format(self.p2.name, (self.p2_wins/(self.p1_wins+self.p2_wins+self.number_of_ties))*100)
+        output_string += "Tie percentage: {:.1f}% \n".format((self.number_of_ties/(self.p1_wins+self.p2_wins+self.number_of_ties))*100)
+        output_string += "Ties: {} \n".format(self.number_of_ties)
+        output_string += "================================= \n"
+        return output_string
 
     def get_hash(self):
         ''' This function generates a unique hash that identifies the state for the board '''
@@ -99,7 +109,7 @@ class State:
 
     def play(self, rounds=100):
         for i in range(1, rounds+1):
-            # self.print_stats()
+            # if i > 1: self.print_stats()
             # if i % 1 == 0:
             #     print("=================================")
             #     print("             ROUND {}".format(i))
@@ -190,7 +200,8 @@ class State:
                         print("It's a tie!")
                         self.number_of_ties += 1
                     self.reset()
-                    break 
+                    break
+
 
     def show_board(self):
         # p1: x  p2: o
@@ -209,12 +220,12 @@ class State:
         print('-------------')
 
 class Player:
-    def __init__(self, name, exp_rate=0.3):
+    def __init__(self, name, exp_rate=0.3, lr=0.2, decay_gamma=0.9):
         self.name = name
         self.states = []
-        self.lr = 0.2
+        self.lr = lr
         self.exp_rate = exp_rate
-        self.decay_gamma = 0.9
+        self.decay_gamma = decay_gamma
         self.states_value = {} # Maps as state -> value
 
     # Appends a hash state
@@ -285,21 +296,76 @@ class HumanPlayer:
     def reset(self):
         pass
 
-if __name__ == "__main__":
-    player1 = Player("CPU1")
-    player2 = Player("CPU2")
-    s1 = State(player1, player2)
+class Comparison:
+    def __init__(self, lr, exp_rate, rounds):
+        self.lr = lr
+        self.exp_rate = exp_rate
+        self.rounds = rounds
+        self.win_percentage = 0
+        self.best_lr = 0
+        self.output_string = ''
 
-    print("Training the agents... \n")
-    s1.play(50000)
+    def compare_lr(self):
+        for i in np.arange(1, 0, -0.1):
+            self.output_string += "Learning rate now is {:.1f} \n".format(i)
+            player1 = Player("CPU1", lr=i)
+            player2 = Player("CPU2", lr=i)
+            st = State(player1, player2)
+            st.play(self.rounds)
+            self.output_string += st.print_stats()
+            current_win_percentage = (st.p1_wins/self.rounds)*100
+            if current_win_percentage > self.win_percentage:
+                self.win_percentage = current_win_percentage
+                self.best_lr = i
+    
+    def compare_decay_gamma(self):
+        for i in np.arange(1, 0, -0.1):
+            print("Decay gamma now is {:.1f}".format(i))
+            player1 = Player("CPU1", decay_gamma=i)
+            pass
+
+    def final_results(self):
+        self.output_string += "======================================================== \n"
+        self.output_string += "======================================================== \n"
+        self.output_string += "======================================================== \n"
+        self.output_string += "                                                         \n"
+        self.output_string += "               FINAL RESULTS AFTER {} ROUNDS             \n".format(self.rounds)
+        self.output_string += "                                                         \n"
+        self.output_string += "======================================================== \n"
+        self.output_string += "======================================================== \n"
+        self.output_string += "======================================================== \n"
+        self.output_string += "===================== LEARNING RATE ==================== \n"
+        self.output_string += "|| The best learning rate is {:.1f} \n".format(self.best_lr)
+        self.output_string += "|| Win percentage of {:.2f}% \n".format(self.win_percentage)
+        self.output_string += "======================================================== \n"
+        self.output_string += "======================================================== \n"
+
+    def save_to_file(self, method):
+        filename = "compare-" + method + "-" + str(GAMES) + "-rounds.txt"
+        output_file = open(filename, 'w')
+        output_file.write(self.output_string)
+        output_file.close()
+
+
+if __name__ == "__main__":
+    compare = Comparison(LEARNING_RATE, EXPLORATION_RATE, GAMES)
+    compare.compare_lr()
+    compare.final_results()
+    compare.save_to_file('lr')
+    # player1 = Player("CPU1")
+    # player2 = Player("CPU2")
+    # s1 = State(player1, player2)
+
+    # print("Training the agents... \n")
+    # s1.play(362880)
     # s1.print_stats()
 
-    # Play with human
-    player1 = Player("CPU", exp_rate=0)
-    player1.load_policy("policy_CPU1")
+    # # Play with human
+    # player1 = Player("CPU", exp_rate=0)
+    # player1.load_policy("policy_CPU1")
 
-    player2 = HumanPlayer("Victor")
-    s2 = State(player1, player2)
-    for i in range(10):
-        s2.play_with_human()
-        s2.print_stats()
+    # player2 = HumanPlayer("Victor")
+    # s2 = State(player1, player2)
+    # for i in range(10):
+    #     s2.play_with_human()
+    #     s2.print_stats()
